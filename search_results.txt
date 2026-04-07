@@ -1,0 +1,10 @@
+===== VECTOR SEARCH RESULTS =====
+
+Query: Machine learning is important
+
+1. Machine learning is important
+   Similarity Score: 1.0000
+
+2. Deep learning is powerful
+   Similarity Score: 0.6028
+
