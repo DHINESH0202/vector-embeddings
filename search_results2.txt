@@ -1,0 +1,13 @@
+===== VECTOR SEARCH RESULTS =====
+
+Query: online shopping products
+
+1. E-commerce platforms offer many products
+   Similarity Score: 0.6926
+
+2. Online shopping is very convenient
+   Similarity Score: 0.6873
+
+3. Films are a great source of entertainment
+   Similarity Score: 0.1045
+
